@@ -133,7 +133,7 @@ i { font-size: 16px; }
 
 .info_timeline ul li { list-style: none; position: relative; overflow: hidden; padding-bottom: 20px; }
 .info_timeline ul li .dot { width: 2px; height: 100%; position: absolute; left: 4px; top: 0; background-color: #666; }
-.info_timeline ul li .dot b { border-radius: 100%; -webkit-border-radius: 100%; -moz-border-radius: 100%; width: 10px; height: 10px; position: absolute; left: -6px; top: 4px; background-color: #333; border: 2px #fff solid; }
+.info_timeline ul li .dot b { border-radius: 100%; -webkit-border-radius: 100%; -moz-border-radius: 100%; width: 10px; height: 10px; position: absolute; left: -6px; background-color: #666; border: 2px #fff solid; }
 .info_timeline ul li.top .dot { top: 10px; }
 .info_timeline ul li.top .dot b { top: -6px; }
 .info_timeline ul li.bottom .dot { height: 10px; }
@@ -148,7 +148,7 @@ i { font-size: 16px; }
 .info_timeline ul.focus li .con h3,.info_timeline ul.focus li .con p,.info_timeline ul.focus li .con p.desc { color: #bbb; }
 
 .info_timeline dl dt { float: left; line-height: 25px; color: #999; }
-.info_timeline dl dt h6 { color: #333; }
+.info_timeline dl dt h6 { color: #666; }
 .info_timeline dl dt i { float: left; margin-right: 5px; }
 .info_timeline dl dt em { color: #ccc; margin-left: 3px; }
 .info_timeline dl dd { float: right; line-height: 25px; }
