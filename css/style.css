@@ -113,10 +113,9 @@ i { font-size: 16px; }
 .base p.desc { color: #ccc; }
 .base h2 { font-size: 32px; color: #999; font-weight: normal; padding: 5px 0; }
 .base span p { color: #aaa; padding: 0 0 10px; }
-.base span p:hover { color: #2fc4e5; }
 .base span i { font-size: 16px; color: #999; margin-right: 5px; float: left; }
-/*.tel_me { color: #aaa; }
-.tel_me:hover { color: #2fc4e5; }*/
+.tel_me { color: #999; }
+.tel_me:hover { color: #2fc4e5; }
 .information { width: 100%; }
 .info_content p { line-height: 22px; margin-bottom: 20px; overflow: hidden; }
 .info_content p em { margin: 0 5px; }
