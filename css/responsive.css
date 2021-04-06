@@ -11,7 +11,7 @@
 	.info_timeline dl dd { width: calc(100% - 200px); width: -moz-calc(100% - 200px); width: -webkit-calc(100% - 200px); }
 	.footer a { float: right; }
 	.tip_avatar_con { background: url('../images/cartoon.PNG') no-repeat left; }
-	.tip_right { width: 40%; height: 460px; position: absolute; right: 0; top: 50%; margin: -230px 0 0; }
+	.tip_right { width: 40%; height: 460px; position: absolute; right: 0; top: 40%; }
 	.info_content.over .desc { height: 0; margin: 0; }
 	.info_content.over .s5.curr { height: 474px }
 	.info_content.over .s4.curr { padding-top: 100px; height: 374px }
@@ -48,7 +48,7 @@
 	.info_timeline dl dd b em{ margin: 7px 5px 0 0;}
 	.footer a { float: none; }
 	.tip_avatar_con { background-position: center center; }
-	.tip_right { width: 80%; padding: 20% 10% 30%; height: 100%; position: relative; top: 0; margin: 0; background-color: rgba(23, 22, 22, 0.90); }
+	.tip_right { width: 80%; padding: 70% 10% 30%; height: 100%; position: relative; top: 0; margin: 0; background-color: rgba(23, 22, 22, 0.90); }
 	.tip_right p{ line-height: 22px; padding-top: 5px; }
 	.tip_right h2{ line-height: 36px; padding-top: 10px; }
 	.info_content.over .desc { height: auto; margin-bottom: 20px; }
